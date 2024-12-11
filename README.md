@@ -8,10 +8,10 @@
 ```
 portfolio/
 ├── 2412_Electric_energy_consumption/   
-│   ├── 241210 電力消費予測 可視化（仲本夏生）.ipynb  　 # データの可視化ノートブック
-│   ├── 241210 電力消費予測 モデル化（仲本夏生）.ipynb   # モデル構築ノートブック
-│   ├── spec_sheet.md                               　# プロジェクトスペックシート
-├── README.md                                       　# このリポジトリの説明ファイル
+│   ├── portfolio1_visualization.ipynb  　 # データの可視化ノートブック
+│   ├── portfolio2_modeling.ipynb          # モデル構築ノートブック
+│   ├── spec_sheet.md                      # プロジェクトスペックシート
+├── README.md                              # このリポジトリの説明ファイル
 ```
 
 ## 今後の追加予定
